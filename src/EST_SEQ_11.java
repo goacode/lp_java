@@ -8,9 +8,11 @@ import javax.swing.JOptionPane;
 public class EST_SEQ_11 {
 
     public static void main(String args[]) {
-        double raio = Double.parseDouble(JOptionPane.showInputDialog(null, "Insira o valor da circunferência em centímetros"));
+        double raio = Double.parseDouble(JOptionPane.showInputDialog("Insira o valor do raio em centímetros"));
         double comprimento = (raio * Math.PI);
 
-        System.out.println("A circunferência tem um comprimento total de " + comprimento + "cm");
+        System.out.printf("A circunferencia mede ");
+        System.out.printf("%.2f", comprimento);
+        System.out.println(" centímetros");
     }
 }
