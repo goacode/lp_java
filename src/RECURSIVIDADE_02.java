@@ -1,9 +1,10 @@
 /*
-Objetivo: Retorne a Serie = (1 + 2 + 3 + ... + 100)
+Objetivo: Retorne a Serie = (N + (N - 1) + (N - 2) + ... + 1)
 Dev: Gustavo O. Andrade
 Data: 12/03/2026
  */
-public class RECURSIVIDADE_01 {
+import javax.swing.JOptionPane;
+public class RECURSIVIDADE_02 {
 
     public static int soma_serie(int num){
         int soma;
@@ -18,7 +19,8 @@ public class RECURSIVIDADE_01 {
 
     public static void main(String args[]) {
 
-        int resultado = soma_serie(100);
+        int valor = Integer.parseInt(JOptionPane.showInputDialog("Insira o valor final da sequencia que deseja somar"));
+        int resultado = soma_serie(valor);
         System.out.println(resultado);
 
     }
