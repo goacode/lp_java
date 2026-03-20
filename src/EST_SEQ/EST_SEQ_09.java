@@ -1,4 +1,4 @@
-/*
+package EST_SEQ;/*
 Objetivo:Este programa deve receber 2 números INTEIROS, calcular e mostrar a soma de seus quadrados
 Dev: Gustavo O. Andrade
 Data: 19/02/2026

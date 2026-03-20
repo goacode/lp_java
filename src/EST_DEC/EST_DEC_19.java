@@ -1,4 +1,4 @@
-/*
+package EST_DEC;/*
 Objetivo: Receba 2 valores reais. Calcule e mostre o maior deles.
 Dev: Gustavo O. Andrade
 Data: 23/02/2026

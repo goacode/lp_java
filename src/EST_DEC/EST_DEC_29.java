@@ -1,4 +1,4 @@
-/*
+package EST_DEC;/*
 Objetivo: Receba o investimento (1 = Poupança e 2 = Renda Fixa) e o valor do investimento.
 Calcule e mostre o valor corrigido em 30 dias sabendo que
 Poupançã = 3% e Renda Fixa = 5%.

@@ -1,4 +1,4 @@
-/*
+package EST_SEQ;/*
 Objetivo: Este programa deve receber 2 números reais, calcular e mostrar a diferença desses valores.
 Dev: Gustavo O. Andrade
 Data: 19/02/2026

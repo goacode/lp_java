@@ -1,4 +1,4 @@
-/*
+package EST_DEC;/*
 Objetivo: Receba 3 valores obrigatoriamente em ordem crescente e um 4º valor não necessariamente em ordem.
 Mostre os 4 números em ordem crescente.
 Dev: Gustavo O. Andrade

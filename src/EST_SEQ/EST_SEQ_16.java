@@ -1,4 +1,4 @@
-/*
+package EST_SEQ;/*
 Objetivo: Receba a quantidade de horas trabalhadas, o valor por hora, o percentual de desconto e o número de descendentes.
 Calcule o salário que serão as horas trabalhadas x o valor por hora.
 Calcule o salário líquido (= Salário Bruto – desconto).

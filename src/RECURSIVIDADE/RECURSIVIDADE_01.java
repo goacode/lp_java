@@ -1,3 +1,5 @@
+package RECURSIVIDADE;
+
 /*
 Objetivo: Retorne a Serie = (1 + 2 + 3 + ... + 100)
 Dev: Gustavo O. Andrade

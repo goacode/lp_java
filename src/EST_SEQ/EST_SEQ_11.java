@@ -1,4 +1,4 @@
-/*
+package EST_SEQ;/*
 Objetivo: Receba o valor do raio de uma circunferencia e calcule o comprimento
 Dev: Gustavo O. Andrade
 Data: 19/02/2026

@@ -1,4 +1,4 @@
-/*
+package EST_SEQ;/*
 Objetivo: Calcule a quantidade de litros gastos em uma viagem, sabendo que o automóvel faz 12 km/l. Receber o tempo de percurso e a velocidade média.
 Dev: Gustavo O. Andrade
 Data: 23/02/2026

@@ -1,0 +1,52 @@
+package VETORES.TESTE;
+
+public class LeeSin {
+    int hp;
+    int energy;
+    String[] hab = new String[4];
+
+    public LeeSin(int qtdHp, int qtdEnergy){
+        this.hp = qtdHp;
+        this.energy = qtdEnergy;
+        this.hab[0] = "Q";
+        this.hab[1] = "W";
+        this.hab[2] = "E";
+        this.hab[3] = "R";
+    }
+
+    public String OndaSonica(){
+        return "Onda Sonica lançada!";
+    }
+
+    public String W(){
+        return "W lançada!";
+    }
+
+    public String E(){
+        return "E lançada!";
+    }
+
+    public String R(){
+        return "R lançada!";
+    }
+}
+
+
+
+-------------------------------------------------------------
+
+
+package VETORES;
+
+import VETORES.TESTE.LeeSin;
+
+public class Main {
+    public static void main(String[] args){
+        LeeSin leesin = new LeeSin(550, 100);
+
+        System.out.println(leesin.OndaSonica());
+    }
+
+
+
+}

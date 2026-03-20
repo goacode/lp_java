@@ -1,4 +1,4 @@
-/*
+package EST_DEC;/*
 Objetivo: Receba o preço atual e a média mensal de um produto.
 Calcule e mostre o novo Preço sabendo que:
 Venda Mensal       Preço Atual      Preço Novo

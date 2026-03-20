@@ -1,4 +1,4 @@
-/*
+package EST_DEC;/*
 Objetivo: Receba 2 números inteiros. Verifique e mostre se o maior número é múltiplo do menor.
 Dev: Gustavo O. Andrade
 Data: 26/02/2026

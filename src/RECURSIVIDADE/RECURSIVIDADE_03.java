@@ -1,4 +1,4 @@
-/*
+package RECURSIVIDADE;/*
 Objetivo: Retorne a Serie = ( (1/1) + (1/2) + (1/3) + ... + (1/N) )
 Dev: Gustavo O. Andrade
 Data: 12/03/2026

@@ -1,4 +1,4 @@
-/*
+package EST_DEC;/*
 Objetivo: Receba 2 valores inteiros e diferentes. Mostre seus valores em ordem crescente.
 Dev: Gustavo O. Andrade
 Data: 26/02/2026

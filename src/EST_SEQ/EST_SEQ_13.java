@@ -1,4 +1,4 @@
-/*
+package EST_SEQ;/*
 Objetivo: Receba uma quantidade xKg de alimentos e calcule quantos dias durará sabendo que são consumidos 50g por dia.
 Dev: Gustavo O. Andrade
 Data: 19/02/2026

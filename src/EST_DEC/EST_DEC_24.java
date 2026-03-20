@@ -1,4 +1,4 @@
-/*
+package EST_DEC;/*
 Objetivo: Receba um valor inteiro. Verifique e mostre se é divisível por 2 e 3.
 Dev: Gustavo O. Andrade
 Data: 26/02/2026

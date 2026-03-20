@@ -1,4 +1,4 @@
-/*
+package EST_SEQ;/*
 Objetivo: Receba o ano de nascimento e o ano atual. Calcule e mostre a idade e quantos anos terá daqui a 17 anos.
 Dev: Gustavo O. Andrade
 Data: 19/02/2026

@@ -1,4 +1,4 @@
-/*
+package EST_SEQ;/*
 Objetivo: Receba os valores de 2 catetos de um triângulo retângulo. Calcule e mostre a hipotenusa.
 Dev: Gustavo O. Andrade
 Data: 23/02/2026
