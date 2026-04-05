@@ -1,5 +1,5 @@
 /*
-10.	Criar uma matriz [8][8] onde o programa irá carregar segundo:
+Criar uma matriz [8][8] onde o programa irá carregar segundo:
 casa 1 = 1
 casa 2 = 2
 casa 3 = 4

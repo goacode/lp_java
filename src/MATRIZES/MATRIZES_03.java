@@ -16,7 +16,7 @@ public class MATRIZES_03 {
                 int saidas[] = {i + 1, j + 1, 8 - i, 8 - j};
 
 
-                //Calcule com a menor distancia para saída da matriz
+                //Calcula qual a menor distancia para saída da matriz
                 int menor_saida = saidas[0];
                 for(int k = 0; k < 4; k ++){
                     if(saidas[k] < menor_saida){
